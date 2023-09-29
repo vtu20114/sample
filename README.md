@@ -1,2 +1,2 @@
 # sample
-this is my first reposetry in github
+this is my first reposetry in github.
